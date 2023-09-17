@@ -1,0 +1,227 @@
+{
+  [ "minecraft:magma_block" ] = {
+    [ "minecraft:chest_3" ] = 1,
+  },
+  [ "computercraft:computer_normal" ] = {
+    [ "minecraft:chest_8" ] = 1,
+  },
+  [ "computercraft:turtle_normal" ] = {
+    [ "minecraft:chest_3" ] = 1,
+  },
+  [ "minecraft:blackstone" ] = {
+    [ "minecraft:chest_3" ] = 5,
+  },
+  [ "minecraft:music_disc_cat" ] = {
+    [ "minecraft:chest_5" ] = 1,
+  },
+  [ "minecraft:diorite" ] = {
+    [ "minecraft:chest_3" ] = 38,
+  },
+  [ "minecraft:copper_ingot" ] = {
+    [ "minecraft:chest_8" ] = 231,
+  },
+  [ "minecraft:diamond" ] = {
+    [ "minecraft:chest_5" ] = 20,
+  },
+  [ "minecraft:granite" ] = {
+    [ "minecraft:chest_3" ] = 298,
+  },
+  [ "minecraft:ladder" ] = {
+    [ "minecraft:chest_3" ] = 24,
+  },
+  [ "minecraft:feather" ] = {
+    [ "minecraft:chest_8" ] = 46,
+  },
+  [ "minecraft:lapis_block" ] = {
+    [ "minecraft:chest_5" ] = 4,
+    [ "minecraft:chest_8" ] = 64,
+  },
+  [ "minecraft:iron_chestplate" ] = {
+    [ "minecraft:chest_3" ] = 1,
+  },
+  [ "minecraft:beef" ] = {
+    [ "minecraft:chest_8" ] = 87,
+  },
+  [ "minecraft:redstone" ] = {
+    [ "minecraft:chest_8" ] = 20,
+    [ "minecraft:chest_3" ] = 64,
+  },
+  [ "minecraft:cobblestone_slab" ] = {
+    [ "minecraft:chest_3" ] = 210,
+  },
+  [ "minecraft:wheat" ] = {
+    [ "minecraft:chest_8" ] = 128,
+  },
+  [ "minecraft:oak_log" ] = {
+    [ "minecraft:chest_5" ] = 4,
+  },
+  [ "minecraft:iron_ingot" ] = {
+    [ "minecraft:chest_5" ] = 50,
+    [ "minecraft:chest_8" ] = 256,
+  },
+  [ "minecraft:spider_eye" ] = {
+    [ "minecraft:chest_8" ] = 1,
+  },
+  [ "minecraft:birch_sign" ] = {
+    [ "minecraft:chest_3" ] = 2,
+  },
+  [ "minecraft:potato" ] = {
+    [ "minecraft:chest_5" ] = 93,
+  },
+  [ "minecraft:sand" ] = {
+    [ "minecraft:chest_5" ] = 8,
+  },
+  [ "minecraft:oak_planks" ] = {
+    [ "minecraft:chest_5" ] = 2,
+  },
+  [ "minecraft:dried_kelp_block" ] = {
+    [ "minecraft:chest_8" ] = 7,
+  },
+  [ "minecraft:cobblestone" ] = {
+    [ "minecraft:chest_8" ] = 40,
+    [ "minecraft:chest_3" ] = 111,
+  },
+  [ "minecraft:paper" ] = {
+    [ "minecraft:chest_5" ] = 23,
+  },
+  [ "minecraft:gold_ingot" ] = {
+    [ "minecraft:chest_5" ] = 11,
+    [ "minecraft:chest_8" ] = 64,
+  },
+  [ "minecraft:music_disc_13" ] = {
+    [ "minecraft:chest_5" ] = 1,
+    [ "minecraft:chest_8" ] = 1,
+  },
+  [ "minecraft:stone" ] = {
+    [ "minecraft:chest_8" ] = 15,
+  },
+  [ "minecraft:oak_door" ] = {
+    [ "minecraft:chest_8" ] = 3,
+  },
+  [ "minecraft:lapis_lazuli" ] = {
+    [ "minecraft:chest_5" ] = 5,
+  },
+  [ "minecraft:birch_door" ] = {
+    [ "minecraft:chest_8" ] = 2,
+  },
+  [ "minecraft:pumpkin_seeds" ] = {
+    [ "minecraft:chest_3" ] = 3,
+  },
+  [ "minecraft:gravel" ] = {
+    [ "minecraft:chest_3" ] = 20,
+  },
+  [ "minecraft:glass" ] = {
+    [ "minecraft:chest_5" ] = 2,
+  },
+  [ "minecraft:birch_sapling" ] = {
+    [ "minecraft:chest_8" ] = 29,
+  },
+  [ "minecraft:quartz" ] = {
+    [ "minecraft:chest_8" ] = 10,
+  },
+  [ "minecraft:filled_map" ] = {
+    [ "minecraft:chest_5" ] = 1,
+    [ "minecraft:chest_8" ] = 1,
+  },
+  [ "minecraft:stick" ] = {
+    [ "minecraft:chest_3" ] = 4,
+  },
+  [ "minecraft:poisonous_potato" ] = {
+    [ "minecraft:chest_5" ] = 1,
+  },
+  [ "minecraft:rotten_flesh" ] = {
+    [ "minecraft:chest_8" ] = 18,
+  },
+  [ "minecraft:tripwire_hook" ] = {
+    [ "minecraft:chest_3" ] = 1,
+  },
+  [ "minecraft:saddle" ] = {
+    [ "minecraft:chest_3" ] = 1,
+  },
+  [ "minecraft:netherrack" ] = {
+    [ "minecraft:chest_5" ] = 64,
+    [ "minecraft:chest_3" ] = 816,
+  },
+  [ "minecraft:andesite" ] = {
+    [ "minecraft:chest_3" ] = 150,
+  },
+  [ "minecraft:soul_sand" ] = {
+    [ "minecraft:chest_3" ] = 63,
+  },
+  [ "minecraft:arrow" ] = {
+    [ "minecraft:chest_3" ] = 7,
+  },
+  [ "minecraft:dried_kelp" ] = {
+    [ "minecraft:chest_5" ] = 5,
+    [ "minecraft:chest_8" ] = 64,
+  },
+  [ "minecraft:warped_roots" ] = {
+    [ "minecraft:chest_8" ] = 2,
+  },
+  [ "minecraft:flint" ] = {
+    [ "minecraft:chest_5" ] = 1,
+  },
+  [ "minecraft:dirt" ] = {
+    [ "minecraft:chest_3" ] = 64,
+  },
+  [ "minecraft:sugar_cane" ] = {
+    [ "minecraft:chest_5" ] = 103,
+    [ "minecraft:chest_8" ] = 64,
+  },
+  [ "minecraft:gunpowder" ] = {
+    [ "minecraft:chest_5" ] = 1,
+  },
+  [ "minecraft:cobbled_deepslate" ] = {
+    [ "minecraft:chest_3" ] = 196,
+  },
+  [ "minecraft:tuff" ] = {
+    [ "minecraft:chest_5" ] = 46,
+  },
+  [ "minecraft:wheat_seeds" ] = {
+    [ "minecraft:chest_5" ] = 128,
+    [ "minecraft:chest_8" ] = 128,
+  },
+  [ "minecraft:book" ] = {
+    [ "minecraft:chest_3" ] = 26,
+  },
+  [ "minecraft:polished_diorite" ] = {
+    [ "minecraft:chest_3" ] = 2,
+  },
+  [ "minecraft:egg" ] = {
+    [ "minecraft:chest_5" ] = 64,
+    [ "minecraft:chest_8" ] = 288,
+  },
+  [ "minecraft:oak_sapling" ] = {
+    [ "minecraft:chest_8" ] = 3,
+  },
+  [ "minecraft:basalt" ] = {
+    [ "minecraft:chest_3" ] = 36,
+  },
+  [ "minecraft:amethyst_block" ] = {
+    [ "minecraft:chest_3" ] = 4,
+  },
+  [ "minecraft:string" ] = {
+    [ "minecraft:chest_5" ] = 14,
+  },
+  [ "minecraft:iron_nugget" ] = {
+    [ "minecraft:chest_5" ] = 11,
+  },
+  [ "minecraft:cooked_chicken" ] = {
+    [ "minecraft:chest_3" ] = 50,
+  },
+  [ "minecraft:bone_meal" ] = {
+    [ "minecraft:chest_5" ] = 47,
+  },
+  [ "minecraft:polished_granite" ] = {
+    [ "minecraft:chest_3" ] = 4,
+  },
+  [ "minecraft:coal" ] = {
+    [ "minecraft:chest_8" ] = 64,
+  },
+  [ "minecraft:glass_pane" ] = {
+    [ "minecraft:chest_3" ] = 13,
+  },
+  [ "computercraft:cable" ] = {
+    [ "minecraft:chest_8" ] = 3,
+  },
+}
